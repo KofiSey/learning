@@ -1,0 +1,30 @@
+#!/bin/bash
+
+
+echo "Hey Girl"
+
+sleep 3
+
+echo "Welcome back from work!"
+
+sleep 3
+
+echo "Had a great day?"
+
+sleep 2
+
+echo "I need you to remember I am doing this for you"
+
+sleep 4
+
+echo "I know you just smiled :)"
+
+sleep 3
+
+echo "Keep believing, it's all a matter of time"
+
+sleep 2
+
+echo "xoxo"
+
+
